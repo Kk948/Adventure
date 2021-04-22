@@ -19,7 +19,7 @@ class Main {
           System.out.println("Aw shucks sorry but you failed");
             }
         }else{
-          System.out.println("You continue around the ship till you find a door seeming leading to outside \n What do you do ?? \n Kick it down");
+          System.out.println("You continue around the ship till you find a door seeming leading to outside \n You kick it down \n The blazing hot desert air hit you like the chancla from your mother. \n no escpae in sight you might be here a while. \n End of Adventure  ");
         }
 
     }
